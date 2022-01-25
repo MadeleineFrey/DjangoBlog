@@ -1,1 +1,1 @@
-web: gunicorn codestar.wisgi
+web: fsf-blog codestar.wisgi
