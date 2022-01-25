@@ -1,1 +1,1 @@
-web: gunicorn codestar.wisgi:application
+web: gunicorn codestar.wsgi --log-file -
